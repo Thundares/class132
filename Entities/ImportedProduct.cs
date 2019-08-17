@@ -9,6 +9,11 @@ namespace class132.Entities
     {
         public double customsFee { get ; set ;}
         
+        public ImportedProduct(){}
+        public ImportedProduct(string name, double price, double cf) : base(name, price)
+        {
+            customsFee = cf;
+        }
         public sealed override string priceTag()
         {
             StringBuilder ret = new StringBuilder();

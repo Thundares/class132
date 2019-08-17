@@ -1,0 +1,11 @@
+/home/rafael/Documents/c#/training/aula132/bin/Debug/netcoreapp2.2/aula132.deps.json
+/home/rafael/Documents/c#/training/aula132/bin/Debug/netcoreapp2.2/aula132.runtimeconfig.json
+/home/rafael/Documents/c#/training/aula132/bin/Debug/netcoreapp2.2/aula132.runtimeconfig.dev.json
+/home/rafael/Documents/c#/training/aula132/bin/Debug/netcoreapp2.2/aula132.dll
+/home/rafael/Documents/c#/training/aula132/bin/Debug/netcoreapp2.2/aula132.pdb
+/home/rafael/Documents/c#/training/aula132/obj/Debug/netcoreapp2.2/aula132.csprojAssemblyReference.cache
+/home/rafael/Documents/c#/training/aula132/obj/Debug/netcoreapp2.2/aula132.csproj.CoreCompileInputs.cache
+/home/rafael/Documents/c#/training/aula132/obj/Debug/netcoreapp2.2/aula132.AssemblyInfoInputs.cache
+/home/rafael/Documents/c#/training/aula132/obj/Debug/netcoreapp2.2/aula132.AssemblyInfo.cs
+/home/rafael/Documents/c#/training/aula132/obj/Debug/netcoreapp2.2/aula132.dll
+/home/rafael/Documents/c#/training/aula132/obj/Debug/netcoreapp2.2/aula132.pdb

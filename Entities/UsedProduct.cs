@@ -8,6 +8,13 @@ namespace class132.Entities
     class UsedProduct : Product
     {
         public DateTime manufactureDate { get ; set ;}
+
+        public UsedProduct(){}
+
+        public UsedProduct(string name, double price, DateTime md) : base(name, price)
+        {
+            manufactureDate = md;
+        }
         
         public sealed override string priceTag()
         {
